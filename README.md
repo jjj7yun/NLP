@@ -5,11 +5,9 @@ Kmeans_clustering 분석
 
 ## Topicmodeling
 
-### topic_and_prepro_BIGRAM.ipynb
-전처리 후 토픽모델링 시행 (Bigram버전)
-### topic_and_prepro_UNIGRAM.ipynb
-전처리 후 토픽모델링 시행 (Unigram버전)
-### topicmodeling.ipynb
+#### topic_and_prepro_BIGRAM.ipynb / UNIGRAM
+전처리 후 토픽모델링 시행 (Bigram버전/Unigram)
+#### topicmodeling.ipynb
 토픽모델링 코드 
 
 
