@@ -23,9 +23,10 @@ bigram 분석하여 워드클라우드, 빈도분석
 ### Freq_Cloud.ipynb
 단어 빈도분석 후 워드클라우드 생성
 
+## 전처리
+
 ### 전처리_word2vec.ipynb
 전처리 후 word2vec 시행
-
 
 ### Cleansing_esg.ipynb
 ESG report 군집 분석을 위한 전처리 코드
