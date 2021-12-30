@@ -3,10 +3,18 @@
 
 
 ### Similarity_matrix.ipynb
-코사인 유사도 행렬 생성 코드
+코사인 유사도 행렬 생성 
+### tfidf_g.ipynb
+tfidf 분석
+### topic_and_prepro_BIGRAM.ipynb
+전처리 후 토픽모델링 시행 (Bigram버전)
+### topic_and_prepro_UNIGRAM.ipynb
+전처리 후 토픽모델링 시행 (Unigram버전)
 
 ### word2vec_matrix_g.ipynb
-word2vec matrix 생성 코드
+word2vec matrix 생성 
+
+
 ### bigram_sdgs.ipynb
 bigram 분석하여 워드클라우드, 빈도분석
 
