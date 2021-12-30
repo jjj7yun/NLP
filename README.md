@@ -12,6 +12,14 @@ Kmeans_clustering 분석
 ### topicmodeling.ipynb
 토픽모델링 코드 
 
+
+![topicresult](https://user-images.githubusercontent.com/79688191/147721375-11f87a87-cb8a-4008-953e-b8770aaf24bc.PNG)
+
+
+
+
+
+
 ## TFIDF 빈도분석
 
 ### tfidf_g.ipynb
