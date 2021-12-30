@@ -1,6 +1,7 @@
 # NLP
 
-
+### kmeans_hierachical_analysis.ipynb
+Kmeans_clustering 분석
 
 ### Similarity_matrix.ipynb
 코사인 유사도 행렬 생성 
@@ -24,6 +25,7 @@ bigram 분석하여 워드클라우드, 빈도분석
 
 ### 전처리_word2vec.ipynb
 전처리 후 word2vec 시행
+
 
 ### Cleansing_esg.ipynb
 ESG report 군집 분석을 위한 전처리 코드
