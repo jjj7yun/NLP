@@ -2,6 +2,12 @@
 
 ### kmeans_hierachical_analysis.ipynb
 Kmeans_clustering 분석
+![image](https://user-images.githubusercontent.com/79688191/150477446-4fd32d3b-7451-469e-bb0a-8ef023d44a6c.png)
+
+![image](https://user-images.githubusercontent.com/79688191/150477478-48a58279-2679-4c0d-bf8d-64490da71c56.png)
+
+
+![image](https://user-images.githubusercontent.com/79688191/150477433-eccb1962-89fb-4188-8ff1-98a60fec8a26.png)
 
 ## Topicmodeling
 
@@ -15,7 +21,7 @@ Kmeans_clustering 분석
 
 
 
-
+![image](https://user-images.githubusercontent.com/79688191/150477412-58fe2b15-2edc-4a09-a111-b0ae421dbd5e.png)
 
 
 ## TFIDF 빈도분석
@@ -26,14 +32,18 @@ tfidf 분석
 코사인 유사도 행렬 생성 
 #### bigram_sdgs.ipynb
 bigram 분석하여 워드클라우드, 빈도분석
+![wordcloud1](https://user-images.githubusercontent.com/79688191/150477242-c8873ffb-b5bd-4733-85bc-2bae5e92b5db.png)
+
 #### Freq_Cloud.ipynb
 단어 빈도분석 후 워드클라우드 생성
+
+![all_wordcloud](https://user-images.githubusercontent.com/79688191/150477253-216c4828-1c98-42fd-a421-4e9d8b9a6cd7.PNG)
 
 ## Word2Vec
 
 #### word2vec_matrix_g.ipynb
 word2vec matrix 생성 
-
+![Uploading image.png…]()
 
 ## 전처리
 
@@ -51,3 +61,6 @@ ESG report 전체 전처리 코드
 
 #### SDG_convert.ipynb
 SDG goal 별 분류 코드
+
+![image](https://user-images.githubusercontent.com/79688191/150477344-afb40f8d-107c-426d-a1b3-20cea628d7d9.png)
+
