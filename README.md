@@ -63,3 +63,6 @@ SDG goal 별 분류 코드
 
 ![image](https://user-images.githubusercontent.com/79688191/150477344-afb40f8d-107c-426d-a1b3-20cea628d7d9.png)
 
+
+![diagram1](https://user-images.githubusercontent.com/79688191/150477678-f93c0401-ac29-4844-9360-d2f028b82f14.png)
+
