@@ -2,7 +2,7 @@
 
 ### kmeans_hierachical_analysis.ipynb
 Kmeans_clustering 분석
-![image](https://user-images.githubusercontent.com/79688191/150477446-4fd32d3b-7451-469e-bb0a-8ef023d44a6c.png)
+![image](https://user-images.githubusercontent.com/79688191/150477446-4fd32d3b-7451-469e-bb0a-8ef023d44a6c.png width="300" height="200")
 
 ![image](https://user-images.githubusercontent.com/79688191/150477478-48a58279-2679-4c0d-bf8d-64490da71c56.png)
 
