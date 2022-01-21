@@ -21,7 +21,6 @@ Kmeans_clustering 분석
 
 
 
-![image](https://user-images.githubusercontent.com/79688191/150477412-58fe2b15-2edc-4a09-a111-b0ae421dbd5e.png)
 
 
 ## TFIDF 빈도분석
